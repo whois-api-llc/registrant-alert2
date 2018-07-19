@@ -26,7 +26,7 @@ $termsBasic = array(
     ),
     'mode' => 'purchase',
     'apiKey' => $apiKey,
-    'sinceDate' => '2018-07-15'
+    'sinceDate' => '2018-06-15'
 );
 
 function registrant_alert_api(array $data=array())
