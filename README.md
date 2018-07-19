@@ -14,6 +14,6 @@ You'll need a
 authenticate.
 
 Please, refer to the
-[Brand Alert API User Guide](https://registrant-alert-api.whoisxmlapi.com/docs)
+[Registrant Alert API User Guide](https://registrant-alert-api.whoisxmlapi.com/docs)
 for info on input parameters, request/response formats, authentication
 instructions and more.
