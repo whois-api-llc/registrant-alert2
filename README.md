@@ -12,6 +12,8 @@ languages.
 You'll need a
 [WhoisXmlApi account](https://registrant-alert-api.whoisxmlapi.com/signup) to
 authenticate.
+You can use either the **X-Authentication-Token** header or the request's body
+**apiKey** parameter.
 
 Please, refer to the
 [Registrant Alert API User Guide](https://registrant-alert-api.whoisxmlapi.com/docs)
